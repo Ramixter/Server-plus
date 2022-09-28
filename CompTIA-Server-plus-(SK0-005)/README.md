@@ -1,5 +1,4 @@
-# CompTIA Server + (SK0--05)
-Server installation, monitoring and maintenance
+# CompTIA Server + (SK0-05)
+**Instalación, monitoreo y mantenimiento de servidores.**
 
-CompTIA Server + is a global certification that validates the hands-on skills of IT professionals who install, manage and troubleshoot servers in data centes as well as on-premise and hybrid environments.
-
+CompTIA Server + es una certificación global que valida las habilidades prácticas de los profesionales de TI que instalan, administran y solucionan problemas de servidores en centros de datos, así como en entornos locales e híbridos.
