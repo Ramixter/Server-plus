@@ -15,3 +15,11 @@ Ponemos todo ese dinero y hacemos toda esa arquitectura sobre la que hemos estad
 Y por eso va a ser importante entender bien, sobre los sistemas operativos del servidor y también entender sobre lo que se conoce como los requisitos. Cuáles son los requisitos para instalar y ejecutar este software. Y eso será lo que realmente abordaremos y nos centraremos en este apartado. Y les mostraré un par de lugares que pueden utilizar para sus estudios. Entonces, si te preguntan cuáles son los requisitos mínimos para un Windows Server, podrás identificarlos.
 
 Pero vamos a ir un poco más allá, no nos quedaremos del lado de Windows. Le mostraremos, por ejemplo, Ubuntu Server; la solución a largo plazo de Ubuntu Server Edition 20.404 LT.
+
+Entonces, vamos a ver un par de requisitos para ambos sistemas operativos de servidor. Y luego, lo que vamos a ver finalmente es que vamos a ver algo de conciencia de compatibilidad. Algunas consideraciones, si lo deseas, que quiero que tengas en cuenta en lo que respecta a la compatibilidad del hardware.
+
+Entonces, ¿dónde vamos a empezar cuando se trata de la idea de los sistemas operativos de servidor? ¿Qué es lo que realmente necesitamos saber sobre ellos?
+
+Nosotros empezamos en Windows. Vamos a empezar aquí. Toda la información que ves la ponemos en los enlaces relacionados para que se puedan ver en más profundidad.
+
+- [Requisitos de hardware para Windows Server](https://learn.microsoft.com/en-us/windows-server/get-started/hardware-requirements)
